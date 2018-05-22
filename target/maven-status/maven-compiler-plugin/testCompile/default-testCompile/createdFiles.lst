@@ -1,0 +1,4 @@
+com\wyd\kafkastorm\OrderInfoGenerator$merchantNames.class
+com\wyd\kafkastorm\OrderInfoGenerator$paymentWays.class
+com\wyd\kafkastorm\OrderInfoGenerator$productNames.class
+com\wyd\kafkastorm\OrderInfoGenerator.class
